@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<config>
+	<host>localhost</host>
+	<port>3066</port>
+	<db>bdtune</db>
+	<user>root</user>
+	<password>111111</password>
+</config>

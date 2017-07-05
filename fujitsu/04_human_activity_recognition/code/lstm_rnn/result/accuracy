@@ -1,0 +1,8 @@
+Final result: Batch Loss = 3.49164175987, Accuracy = 0.422960698605
+Testing Accuracy: 42.2960698605%
+
+Precision: 20.3299250932%
+Recall: 42.2960725076%
+f1_score: 26.8293350501%
+
+

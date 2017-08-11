@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/stephen/Desktop/write_read_tfrecord/checkpoints/model_alexnet-6600"
+all_model_checkpoint_paths: "/home/stephen/Desktop/write_read_tfrecord/checkpoints/model_alexnet-6600"

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/stephen/Desktop/write_read_tfrecord/model/model_retrained_by_alexnet"
+all_model_checkpoint_paths: "/home/stephen/Desktop/write_read_tfrecord/model/model_retrained_by_alexnet"

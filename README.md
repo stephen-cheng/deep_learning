@@ -1,3 +1,3 @@
-# deep-learning
+# deep-learning demos with different frameworks
 
 

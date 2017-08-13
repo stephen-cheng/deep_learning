@@ -1,0 +1,15 @@
+net: "examples/cifar10/cifar10_full_train_test.prototxt"
+test_iter: 100
+test_interval: 100
+display: 100
+max_iter: 22000
+lr_policy: "triangular"
+base_lr: 0.0001
+start_lr_policy: 16000
+max_lr: 0.0005
+momentum: 0.9
+weight_decay: 0.004
+stepsize: 1000
+snapshot: 22000
+snapshot_prefix: "examples/cifar10/cifar10_full_triangle"
+solver_mode: GPU

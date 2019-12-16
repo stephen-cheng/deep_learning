@@ -14,8 +14,11 @@
 * [LeNet](https://github.com/jetrobert/deep-learning/tree/master/caffe/LeNet)
 * [VggNet](https://github.com/jetrobert/deep-learning/tree/master/caffe/VGGNet)
 * [GoogLeNet](https://github.com/jetrobert/deep-learning/tree/master/caffe/GoogLeNet/ImageNet)
+* [Inception](https://github.com/jetrobert/deep-learning/tree/master/tensorflow_py/inception)
+* [Resnet](https://github.com/jetrobert/deep-learning/tree/master/tensorflow_py/resnet)
 * [Siamese](https://github.com/jetrobert/deep-learning/tree/master/caffe/Siamese)
 * [SqueezeNet](https://github.com/jetrobert/deep-learning/tree/master/caffe/SqueezeNet)
+* [Reinforcement Learning](https://github.com/jetrobert/deep-learning/tree/master/tensorflow_py/reinforcement_learning)
 
 ### Examples
 
@@ -32,3 +35,12 @@
 * [Facial Keypoints Detection](https://github.com/jetrobert/deep-learning/tree/master/caffe/Kaggle/facial-keypoints-detection)
 * [Single Shot MultiBox Detector](https://github.com/jetrobert/deep-learning/tree/master/caffe/SSD)
 * [Style Transfer](https://github.com/jetrobert/deep-learning/tree/master/caffe/StyleTransfer/style-transfer-master)
+
+### Natural Language Processing
+
+* [Text Classification](https://github.com/jetrobert/deep-learning/tree/master/tensorflow_py/text_classification_rnn_cnn)
+
+### Recommendation
+
+* [Wide & Deep](https://github.com/jetrobert/deep-learning/tree/master/tensorflow_py/recommender_wide_deep)
+
